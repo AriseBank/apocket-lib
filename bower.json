@@ -1,0 +1,26 @@
+{
+  "name": "apocket-lib",
+  "main": "index.js",
+  "version": "2.1.1",
+  "homepage": "https://github.com/arisebank/apocket-lib",
+  "authors": ["AriseBank Inc"],
+  "description": "Client for apocket-api",
+  "keywords": [
+    "bitcoin",
+    "apocket",
+    "multisig",
+    "wallet",
+    "client",
+    "bitcore"
+  ],
+  "ignore": [
+    "**/.*",
+    "lib",
+    "node_modules",
+    "Gruntfile.js",
+    "Makefile",
+    "index.js",
+    "test",
+    "Makefile"
+  ]
+}
