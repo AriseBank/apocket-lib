@@ -2,7 +2,7 @@
   "name": "apocket-lib",
   "description": "Client for apocket-api",
   "author": "AriseBank Inc",
-  "version": "6.2.1",
+  "version": "6.2.2",
   "license": "MIT",
   "keywords": [
     "bitcoin",
